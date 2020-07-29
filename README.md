@@ -1,9 +1,9 @@
 ### I am a new exception();
 
-prehistoric developodocus
-digital ronin
-internet journeyman
-bit of a prick
+* prehistoric developodocus
+* digital ronin
+* internet journeyman
+* bit of a prick
 
 Skills: c# / terraform / bash / powershell / azure / linux / mary jane / json
 
