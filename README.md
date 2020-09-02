@@ -8,7 +8,7 @@
 Skills: c# / terraform / bash / powershell / azure / linux / mary jane / json
 
 - 🔭 I’m currently working on this and that 
-- 🌱 I’m currently learning to read documentatuion 
+- 🌱 I’m currently learning to read documentation 
 - 👯 I’m looking to collaborate on devops-y or .net core-y stuff 
 - 🤔 I’m looking for help with everything 
 - 💬 Ask me about anything 
