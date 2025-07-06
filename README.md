@@ -12,9 +12,6 @@ Skills: c# / terraform / bash / powershell / azure / linux / mary jane / json
 - 👯 I’m looking to collaborate on devops-y or .net core-y stuff 
 - 🤔 I’m looking for help with everything 
 - 💬 Ask me about anything 
-- 📫 How to reach me: github@lagan.me 
-- 😄 Pronouns: seriously?  
-- ⚡ Fun fact: i am a boy 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/klagan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/klagan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/k.lagan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kamlagan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](klagan)  
 
