@@ -3,7 +3,6 @@
 * prehistoric developodocus
 * digital ronin
 * internet journeyman
-* bit of a knob
 
 Skills: c# / terraform / bash / powershell / azure / linux / mary jane / json
 
